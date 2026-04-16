@@ -1,14 +1,14 @@
-.h1{
+.Titulo{
     text-align: center;
     color: blueviolet;
 }
 
-.h2{
+.Subtitulo{
     text-align: center;
     color: aqua;
 }
 
-.p{
+.Paragrafo{
     text-align: left;
     color: blue;
 }
